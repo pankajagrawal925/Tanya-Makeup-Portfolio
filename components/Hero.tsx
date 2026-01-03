@@ -23,7 +23,7 @@ const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=2069&auto=format&fit=crop" 
+          src="https://live.staticflickr.com/65535/55021554808_a3f1d15606_b.jpg" 
           alt="Editorial Makeup Background" 
           className="w-full h-full object-cover grayscale opacity-60"
         />
