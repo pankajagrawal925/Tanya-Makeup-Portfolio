@@ -25,7 +25,7 @@ const Hero: React.FC = () => {
         <img 
           src="https://live.staticflickr.com/65535/55021554808_a3f1d15606_b.jpg" 
           alt="Editorial Makeup Background" 
-          className="w-full h-full object-cover grayscale opacity-60"
+          className="w-full h-full object-cover opacity-60"
         />
         {/* Gradient Overlay for better text readability */}
         <div className="absolute inset-0 bg-gradient-to-t from-jet via-transparent to-jet/50"></div>

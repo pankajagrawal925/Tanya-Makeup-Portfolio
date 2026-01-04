@@ -55,7 +55,7 @@ const About: React.FC = () => {
                <img 
                 src="https://live.staticflickr.com/65535/55019664376_6b1386ebf1.jpg" 
                 alt="Tanya Bhartiya Portrait" 
-                className="w-full h-[500px] object-cover grayscale hover:grayscale-0 transition-all duration-700 ease-in-out"
+                className="w-full h-[500px] object-cover transition-all duration-700 ease-in-out"
               />
             </div>
           </div>

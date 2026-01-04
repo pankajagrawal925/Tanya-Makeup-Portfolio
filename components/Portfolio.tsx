@@ -78,7 +78,7 @@ const Portfolio: React.FC = () => {
               <img 
                 src={item.src} 
                 alt={item.alt} 
-                className="w-full h-auto grayscale group-hover:grayscale-0 transition-all duration-700 ease-in-out scale-100 group-hover:scale-105"
+                className="w-full h-auto transition-all duration-700 ease-in-out scale-100 group-hover:scale-105"
               />
               <div className="absolute inset-0 bg-black/0 group-hover:bg-black/10 transition-colors duration-500"></div>
               
